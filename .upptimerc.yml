@@ -29,7 +29,7 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
--i18n:
+i18n:
   activeIncidents: 活动状态
   allSystemsOperational: 全部系统当前运行正常
   incidentReport: "#$NUMBER号事件报告 →"
