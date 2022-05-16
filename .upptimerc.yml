@@ -9,43 +9,43 @@ sites:
     url: https://wall.rip
   - name: "Emby"
     url: https://cf.embyplus.club
-  - name: 转发-广州移动 (Forword-GuangZhouCM)
+  - name: 🇨🇳 转发-广州移动 (Forward-GuangZhouCM)
     check: "tcp-ping"
     url: $SECRET_SITE_GZCM
     port: 25036
-  - name: 转发-长沙联通 (Forword-ChangShaCU)
+  - name: 🇨🇳 转发-长沙联通 (Forward-ChangShaCU)
     check: "tcp-ping"
     url: $SECRET_SITE_CSCU
     port: 10393
-  - name: 转发-上海移动 (Forword-ShangHaiCM)
+  - name: 🇨🇳 转发-上海移动 (Forward-ShangHaiCM)
     check: "tcp-ping"
     url: $SECRET_SITE_SHCM
     port: 25108
-  - name: 核心节点-香港 (CoreNode-HongKong)
+  - name: 🇭🇰 核心节点-香港 (CoreNode-HongKong)
     check: "tcp-ping"
     url: $SECRET_SITE_HK
     port: 22
-  - name: 核心节点-日本 (CoreNode-Japan)
+  - name: 🇯🇵 核心节点-日本 (CoreNode-Japan)
     check: "tcp-ping"
     url: $SECRET_SITE_JP
     port: 22
-  - name: 边缘节点-台湾 (EdgeNode-Taiwan)
+  - name: 🇹🇼 边缘节点-台湾 (EdgeNode-Taiwan)
     check: "tcp-ping"
     url: $SECRET_SITE_TW
     port: 22
-  - name: 边缘节点-新加坡 (EdgeNode-Singapore)
+  - name: 🇸🇬 边缘节点-新加坡 (EdgeNode-Singapore)
     check: "tcp-ping"
     url: $SECRET_SITE_SG
     port: 22
-  - name: 边缘节点-美国西部 (EdgeNode-AmericanWest)
+  - name: 🇺🇸 边缘节点-美国西部 (EdgeNode-AmericanWest)
     check: "tcp-ping"
     url: $SECRET_SITE_USW
     port: 22
-  - name: 边缘节点-美国东部 (EdgeNode-AmericanEast)
+  - name: 🇺🇸 边缘节点-美国东部 (EdgeNode-AmericanEast)
     check: "tcp-ping"
     url: $SECRET_SITE_USE
     port: 22
-  - name: 边缘节点-德国 (EdgeNode-German)
+  - name: 🇩🇪 边缘节点-德国 (EdgeNode-German)
     check: "tcp-ping"
     url: $SECRET_SITE_DE
     port: 22
