@@ -3,14 +3,12 @@ owner: xxnet2017 # Your GitHub organization or username, where this repository l
 repo: xxnet-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 猩猩互联主页
+    url: https://wall.rip
+  - name: 订阅服务
+    url: https://api.wall.rip
+  - name: Emby
+    url: https://cf.embyplus.club
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -31,7 +29,6 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 i18n:
   activeIncidents: 活动状态
-  allSystemsOperational: 全部系统当前运行正常
   incidentReport: "#$NUMBER号事件报告 →"
   activeIncidentSummary: 开始于 $DATE，有 $POSTS 条报告
   incidentTitle:  $NUMBER号事件详情
@@ -53,10 +50,6 @@ i18n:
   averageResponseTimeTitle: 平均响应
   sevelDayResponseTime: 7天平均响应时间
   responseTimeMs: 响应时间(ms)
-  up: 在线
-  down: 离线
-  degraded: 降级
-  ms: ms
   loading: 加载中
   navGitHub: GitHub
   footer: ©2022 [猩猩互联](https://wall.rip), 由 [Upptime](https://upptime.js.org) 强力驱动
@@ -86,3 +79,27 @@ i18n:
   durationMin: $DURATION分钟
   incidentCompleted: 已完成
   incidentScheduled: 计划中
+  url: URL
+  status: 状态
+  history: 历史
+  responseTime: 响应时间
+  uptime: 在线时间
+  up: "🟩 在线"
+  degraded: "🟨 服务降级"
+  down: "🟥 离线"
+  responseTimeGraphAlt: 响应时间图
+  ms: ms
+  responseTimeDay: 24小时响应时间
+  responseTimeWeek: 1周响应时间
+  responseTimeMonth: 1月响应时间
+  responseTimeYear: 1年响应时间
+  uptime: 全部响应时间
+  uptimeDay: 24小时在线率
+  uptimeWeek: 1周在线率
+  uptimeMonth: 1月在线率
+  uptimeYear: 1年在线率
+  liveStatusHtmlComment: "<!--在线状态-->"
+  allSystemsOperational: "🟩 当前所有系统运行正常"
+  degradedPerformance: "🟨 服务出现降级"
+  completeOutage: "🟥 所有服务出现故障"
+  partialOutage: "🟧 部分服务出现故障"
