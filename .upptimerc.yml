@@ -61,7 +61,7 @@ status-website:
   introTitle: "**猩猩互联服务状态**"
   introMessage: "猩猩互联服务状态是一个用于监控猩猩互联网站，APP，中转服务与边缘节点状态的站点，本站点仅提供部分核心区域的监控"
   navbar:
-    - title: Status
+    - title: 状态
       href: /
     - title: 猩猩互联
       href: https://wall.rip
