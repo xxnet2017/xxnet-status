@@ -33,7 +33,7 @@ i18n:
   activeIncidents: 活动状态
   allSystemsOperational: 全部系统当前运行正常
   incidentReport: "#$NUMBER号事件报告 →"
-  activeIncidentSummary: 开始于 $DATE，有 $POSTS 条消息
+  activeIncidentSummary: 开始于 $DATE，有 $POSTS 条报告
   incidentTitle:  $NUMBER号事件详情
   incidentDetails: 事件详情
   incidentFixed: 已修复
@@ -45,44 +45,44 @@ i18n:
   incidentCommentSummary: $AUTHOR 于 $DATE 发布
   incidentBack: ← 返回到全部时间
   pastIncidents: 过去的事件
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
-  liveStatus: Live Status
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
-  averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: Average response
-  sevelDayResponseTime: 7-day response time
-  responseTimeMs: Response time (ms)
-  up: Up
-  down: Down
-  degraded: Degraded
+  pastIncidentsResolved: 问题在$MINUTES分钟内被解决， 有$POSTS条报告
+  liveStatus: 在线状态
+  overallUptime: "服务在线率: $UPTIME"
+  overallUptimeTitle: 服务在线率
+  averageResponseTime: "平均响应时间: $TIMEms"
+  averageResponseTimeTitle: 平均响应
+  sevelDayResponseTime: 7天平均响应时间
+  responseTimeMs: 响应时间(ms)
+  up: 在线
+  down: 离线
+  degraded: 降级
   ms: ms
-  loading: Loading
+  loading: 加载中
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
-  rateLimitExceededTitle: Rate limit exceeded
-  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
-  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
-  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
-  rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
-  pastScheduledMaintenance: Past Scheduled Maintenance
-  scheduledMaintenance: Scheduled Maintenance
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-  startedAt: Started at
-  startsAt: Starts at
-  duration: Duration
-  durationMin: $DURATION minutes
-  incidentCompleted: Completed
-  incidentScheduled: Scheduled
+  footer: ©2022 [猩猩互联](https://wall.rip), 由 [Upptime](https://upptime.js.org) 强力驱动
+  rateLimitExceededTitle: 超过限速
+  rateLimitExceededIntro: 您已超过一小时内可以执行的请求数，因此您必须等待才能再次访问此网站。或者，您可以添加 GitHub 个人访问令牌以继续使用该网站。
+  rateLimitExceededWhatDoesErrorMean: 这个错误意味着什么?
+  rateLimitExceededErrorMeaning: 本网站使用 GitHub API 访问有关我们网站状态的实时数据。默认情况下，GitHub 允许每个IP地址每小时进行60次请求，目前该配额已经被消耗殆尽
+  rateLimitExceededErrorHowCanFix: 我该如何解决这个错误?
+  rateLimitExceededErrorFix: 您可以再等待一个小时，您的 IP 地址限制将恢复。或者，您可以添加您的 GitHub 个人访问令牌，这会为您提供额外的每小时5,000次请求
+  rateLimitExceededGeneratePAT: 学习如何生成一个个人访问令牌
+  rateLimitExceededHasSet: 您拥有一个个人访问令牌集
+  rateLimitExceededRemoveToken: 移除令牌
+  rateLimitExceededGitHubPAT: GitHub个人访问令牌
+  rateLimitExceededCopyPastePAT: 复制并且粘贴您的令牌
+  rateLimitExceededSaveToken: 保存令牌
+  errorTitle: 发生错误
+  errorIntro: 尝试获取最新状态详细信息时出错
+  errorText: 您可以稍候再试
+  errorHome: 回到主页
+  pastScheduledMaintenance: 过去的定期维护
+  scheduledMaintenance: 定期维护
+  scheduledMaintenanceSummaryStarted: 开始于$DATE，用时$DURATION分钟
+  scheduledMaintenanceSummaryStarts: 计划开始于$DATE，用时$DURATION分钟
+  startedAt: 开始于
+  startsAt: 开始于
+  duration: 计划维护时间
+  durationMin: $DURATION分钟
+  incidentCompleted: 已完成
+  incidentScheduled: 计划中
