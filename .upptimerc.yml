@@ -83,7 +83,6 @@ i18n:
   status: 状态
   history: 历史
   responseTime: 响应时间
-  uptime: 在线时间
   up: "🟩 在线"
   degraded: "🟨 服务降级"
   down: "🟥 离线"
