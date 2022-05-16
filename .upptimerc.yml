@@ -53,8 +53,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.wall.rip
-  baseUrl: /xxnet-status
+  cname: status.wall.rip
+  # baseUrl: /xxnet-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 猩猩互联服务状态
   theme: ocean
