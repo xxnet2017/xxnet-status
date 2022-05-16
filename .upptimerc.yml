@@ -72,7 +72,7 @@ i18n:
   activeIncidents: 活动状态
   incidentReport: "#$NUMBER号事件报告 →"
   activeIncidentSummary: 开始于 $DATE，有 $POSTS 条报告
-  incidentTitle:  $NUMBER号事件详情
+  incidentTitle:  查看#$NUMBER详细信息
   incidentDetails: 事件详情
   incidentFixed: 已修复
   incidentOngoing: 进行中
@@ -81,7 +81,7 @@ i18n:
   incidentSubscribe: 订阅更新
   incidentViewOnGitHub: 在Github上查看
   incidentCommentSummary: $AUTHOR 于 $DATE 发布
-  incidentBack: ← 返回到全部时间
+  incidentBack: ← 返回到全部事件
   pastIncidents: 过去的事件
   pastIncidentsResolved: 问题在$MINUTES分钟内被解决， 有$POSTS条报告
   liveStatus: 在线状态
