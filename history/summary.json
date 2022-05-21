@@ -4,18 +4,20 @@
     "url": "https://xxnet.online",
     "icon": "https://favicons.githubusercontent.com/xxnet.online",
     "slug": "xx-net-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 588,
     "timeDay": 462,
     "timeWeek": 588,
     "timeMonth": 588,
     "timeYear": 588,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 4
+    }
   },
   {
     "name": "订阅服务&客户端API (Subscribe Service & Client API)",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/cf.embyplus.club",
     "slug": "emby",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.37%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
     "time": 311,
     "timeDay": 342,
     "timeWeek": 311,
@@ -79,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "forward-chang-sha-cu",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "96.92%",
+    "uptimeDay": "84.59%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "96.92%",
     "time": 224,
     "timeDay": 0,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-05-21": 1
+      "2022-05-21": 222
     }
   },
   {
@@ -99,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "forward-shang-hai-cm",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.93%",
+    "uptimeDay": "84.68%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "96.93%",
     "time": 319,
     "timeDay": 0,
     "timeWeek": 319,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2022-05-21": 0
+      "2022-05-21": 221
     }
   },
   {
@@ -190,9 +192,9 @@
     "url": "$SECRET_SITE_USW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "edge-node-american-west",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -201,7 +203,9 @@
     "timeWeek": 77,
     "timeMonth": 77,
     "timeYear": 77,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 0
+    }
   },
   {
     "name": "🇺🇸 边缘节点-美国东部 (EdgeNode-AmericanEast)",
