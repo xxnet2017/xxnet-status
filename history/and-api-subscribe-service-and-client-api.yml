@@ -1,7 +1,7 @@
 url: https://wall.rip
-status: up
-code: 200
-responseTime: 696
-lastUpdated: 2023-12-06T23:08:33.155Z
+status: down
+code: 502
+responseTime: 2437
+lastUpdated: 2023-12-07T05:13:01.576Z
 startTime: 2022-05-16T06:24:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
