@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 888,
+      "2025-09-06": 898,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -464,7 +464,7 @@
     "timeMonth": 0,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2025-09-06": 888,
+      "2025-09-06": 898,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -816,7 +816,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 888,
+      "2025-09-06": 898,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -1190,8 +1190,8 @@
     "slug": "forward-chang-sha-cu",
     "status": "up",
     "uptime": "3.84%",
-    "uptimeDay": "20.82%",
-    "uptimeWeek": "2.97%",
+    "uptimeDay": "21.53%",
+    "uptimeWeek": "3.08%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "11.38%",
     "time": 201,
@@ -1539,10 +1539,10 @@
     "url": "$SECRET_SITE_SHCM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forward-shang-hai-cm",
-    "status": "up",
+    "status": "down",
     "uptime": "81.54%",
-    "uptimeDay": "28.63%",
-    "uptimeWeek": "4.09%",
+    "uptimeDay": "29.13%",
+    "uptimeWeek": "4.16%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "38.85%",
     "time": 230,
@@ -1551,7 +1551,7 @@
     "timeMonth": 55,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-09-06": 614,
+      "2025-09-06": 617,
       "2025-09-05": 1303,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -1806,7 +1806,7 @@
       "2024-11-30": 69,
       "2024-11-29": 133,
       "2024-11-28": 49,
-      "2024-11-26": 63
+      "2024-11-26": 46
     }
   },
   {
@@ -1826,7 +1826,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 888,
+      "2025-09-06": 898,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -2203,7 +2203,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.98%",
+    "uptimeYear": "68.99%",
     "time": 144,
     "timeDay": 151,
     "timeWeek": 133,
@@ -2344,7 +2344,7 @@
     "timeMonth": 0,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-09-06": 888,
+      "2025-09-06": 898,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -2679,8 +2679,8 @@
     "slug": "edge-node-singapore",
     "status": "up",
     "uptime": "81.55%",
-    "uptimeDay": "25.46%",
-    "uptimeWeek": "3.64%",
+    "uptimeDay": "26.16%",
+    "uptimeWeek": "3.74%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "38.87%",
     "time": 309,
@@ -2964,7 +2964,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 888,
+      "2025-09-06": 899,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -3348,7 +3348,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-06": 888,
+      "2025-09-06": 899,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
