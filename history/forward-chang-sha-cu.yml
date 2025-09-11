@@ -1,7 +1,7 @@
 url: $SECRET_SITE_CSCU
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-09-11T04:46:45.565Z
+lastUpdated: 2025-09-11T05:50:37.774Z
 startTime: 2022-05-16T07:42:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
