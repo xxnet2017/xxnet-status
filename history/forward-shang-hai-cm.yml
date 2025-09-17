@@ -1,7 +1,7 @@
 url: $SECRET_SITE_SHCM
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-09-17T17:14:58.131Z
+lastUpdated: 2025-09-17T17:29:13.006Z
 startTime: 2022-05-16T07:42:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
