@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 584,
+      "2025-09-27": 594,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2025-09-27": 584,
+      "2025-09-27": 594,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -817,7 +817,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 584,
+      "2025-09-27": 594,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1191,9 +1191,9 @@
     "slug": "forward-chang-sha-cu",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "42.03%",
+    "uptimeDay": "41.32%",
     "uptimeWeek": "31.87%",
-    "uptimeMonth": "81.63%",
+    "uptimeMonth": "81.61%",
     "uptimeYear": "98.47%",
     "time": 77,
     "timeDay": 8,
@@ -1201,7 +1201,7 @@
     "timeMonth": 31,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2025-09-27": 541,
+      "2025-09-27": 551,
       "2025-09-26": 704,
       "2025-09-25": 841,
       "2025-09-24": 983,
@@ -1217,19 +1217,19 @@
     "url": "$SECRET_SITE_SHCM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forward-shang-hai-cm",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "43.31%",
-    "uptimeWeek": "34.21%",
-    "uptimeMonth": "82.96%",
-    "uptimeYear": "98.58%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "43.02%",
+    "uptimeWeek": "34.20%",
+    "uptimeMonth": "83.28%",
+    "uptimeYear": "98.61%",
     "time": 131,
     "timeDay": 10,
     "timeWeek": 9,
     "timeMonth": 16,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-09-27": 521,
+      "2025-09-27": 525,
       "2025-09-26": 688,
       "2025-09-25": 893,
       "2025-09-24": 812,
@@ -1237,7 +1237,7 @@
       "2025-09-22": 1026,
       "2025-09-21": 1005,
       "2025-09-20": 1006,
-      "2025-09-19": 402
+      "2025-09-19": 258
     }
   },
   {
@@ -1257,7 +1257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 584,
+      "2025-09-27": 594,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1743,7 +1743,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "edge-node-taiwan",
     "status": "down",
-    "uptime": "44.01%",
+    "uptime": "44.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1754,7 +1754,7 @@
     "timeMonth": 0,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-09-27": 584,
+      "2025-09-27": 595,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -2087,11 +2087,11 @@
     "url": "$SECRET_SITE_SG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "edge-node-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "45.72%",
-    "uptimeWeek": "36.54%",
-    "uptimeMonth": "85.09%",
+    "uptimeDay": "45.59%",
+    "uptimeWeek": "36.57%",
+    "uptimeMonth": "85.14%",
     "uptimeYear": "98.76%",
     "time": 203,
     "timeDay": 10,
@@ -2099,14 +2099,14 @@
     "timeMonth": 37,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-09-27": 512,
+      "2025-09-27": 514,
       "2025-09-26": 657,
       "2025-09-25": 896,
       "2025-09-24": 839,
       "2025-09-23": 1052,
       "2025-09-22": 928,
       "2025-09-21": 931,
-      "2025-09-20": 720
+      "2025-09-20": 693
     }
   },
   {
@@ -2126,7 +2126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 584,
+      "2025-09-27": 595,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -2510,7 +2510,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 584,
+      "2025-09-27": 595,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
