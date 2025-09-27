@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 460,
+      "2025-09-27": 470,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2025-09-27": 460,
+      "2025-09-27": 470,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -817,7 +817,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 460,
+      "2025-09-27": 470,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1189,19 +1189,19 @@
     "url": "$SECRET_SITE_CSCU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forward-chang-sha-cu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "44.21%",
-    "uptimeWeek": "32.21%",
-    "uptimeMonth": "81.77%",
-    "uptimeYear": "98.48%",
+    "uptimeDay": "44.55%",
+    "uptimeWeek": "32.26%",
+    "uptimeMonth": "81.89%",
+    "uptimeYear": "98.49%",
     "time": 77,
     "timeDay": 8,
     "timeWeek": 9,
     "timeMonth": 31,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2025-09-27": 422,
+      "2025-09-27": 427,
       "2025-09-26": 704,
       "2025-09-25": 841,
       "2025-09-24": 983,
@@ -1209,7 +1209,7 @@
       "2025-09-22": 989,
       "2025-09-21": 1076,
       "2025-09-20": 1020,
-      "2025-09-19": 808
+      "2025-09-19": 747
     }
   },
   {
@@ -1217,19 +1217,19 @@
     "url": "$SECRET_SITE_SHCM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forward-shang-hai-cm",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "45.97%",
-    "uptimeWeek": "34.53%",
-    "uptimeMonth": "82.64%",
-    "uptimeYear": "98.55%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "45.69%",
+    "uptimeWeek": "34.58%",
+    "uptimeMonth": "83.21%",
+    "uptimeYear": "98.60%",
     "time": 131,
     "timeDay": 10,
     "timeWeek": 9,
     "timeMonth": 16,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-09-27": 406,
+      "2025-09-27": 410,
       "2025-09-26": 688,
       "2025-09-25": 893,
       "2025-09-24": 812,
@@ -1237,7 +1237,7 @@
       "2025-09-22": 1026,
       "2025-09-21": 1005,
       "2025-09-20": 1006,
-      "2025-09-19": 655
+      "2025-09-19": 402
     }
   },
   {
@@ -1257,7 +1257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 460,
+      "2025-09-27": 470,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1754,7 +1754,7 @@
     "timeMonth": 0,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-09-27": 460,
+      "2025-09-27": 470,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -2087,26 +2087,26 @@
     "url": "$SECRET_SITE_SG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "edge-node-singapore",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "48.32%",
-    "uptimeWeek": "36.59%",
-    "uptimeMonth": "85.18%",
-    "uptimeYear": "98.76%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "48.20%",
+    "uptimeWeek": "36.64%",
+    "uptimeMonth": "85.34%",
+    "uptimeYear": "98.78%",
     "time": 204,
     "timeDay": 11,
     "timeWeek": 31,
     "timeMonth": 38,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-09-27": 398,
+      "2025-09-27": 400,
       "2025-09-26": 657,
       "2025-09-25": 896,
       "2025-09-24": 839,
       "2025-09-23": 1052,
       "2025-09-22": 928,
       "2025-09-21": 931,
-      "2025-09-20": 793
+      "2025-09-20": 720
     }
   },
   {
@@ -2126,7 +2126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 460,
+      "2025-09-27": 471,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -2510,7 +2510,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 460,
+      "2025-09-27": 471,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -2887,7 +2887,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.93%",
+    "uptimeYear": "88.94%",
     "time": 126,
     "timeDay": 145,
     "timeWeek": 127,
