@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 506,
+      "2025-09-28": 524,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2025-09-28": 506,
+      "2025-09-28": 524,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -817,7 +817,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 506,
+      "2025-09-28": 524,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -1189,11 +1189,11 @@
     "url": "$SECRET_SITE_CSCU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forward-chang-sha-cu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "23.28%",
-    "uptimeWeek": "31.97%",
-    "uptimeMonth": "82.49%",
+    "uptimeDay": "24.14%",
+    "uptimeWeek": "31.98%",
+    "uptimeMonth": "82.52%",
     "uptimeYear": "98.54%",
     "time": 81,
     "timeDay": 143,
@@ -1201,7 +1201,7 @@
     "timeMonth": 40,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2025-09-28": 422,
+      "2025-09-28": 427,
       "2025-09-27": 1148,
       "2025-09-26": 704,
       "2025-09-25": 841,
@@ -1209,7 +1209,7 @@
       "2025-09-23": 1144,
       "2025-09-22": 989,
       "2025-09-21": 1076,
-      "2025-09-20": 366
+      "2025-09-20": 347
     }
   },
   {
@@ -1217,19 +1217,19 @@
     "url": "$SECRET_SITE_SHCM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forward-shang-hai-cm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "35.27%",
+    "uptimeDay": "36.22%",
     "uptimeWeek": "35.27%",
-    "uptimeMonth": "83.22%",
-    "uptimeYear": "98.60%",
+    "uptimeMonth": "83.30%",
+    "uptimeYear": "98.61%",
     "time": 127,
     "timeDay": 7,
     "timeWeek": 9,
     "timeMonth": 16,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-09-28": 337,
+      "2025-09-28": 341,
       "2025-09-27": 1041,
       "2025-09-26": 688,
       "2025-09-25": 893,
@@ -1237,7 +1237,7 @@
       "2025-09-23": 1109,
       "2025-09-22": 1026,
       "2025-09-21": 1005,
-      "2025-09-20": 440
+      "2025-09-20": 399
     }
   },
   {
@@ -1257,7 +1257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 506,
+      "2025-09-28": 524,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -1753,7 +1753,7 @@
     "timeMonth": 0,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-09-28": 506,
+      "2025-09-28": 524,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -2086,26 +2086,26 @@
     "url": "$SECRET_SITE_SG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "edge-node-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "34.70%",
-    "uptimeWeek": "37.49%",
-    "uptimeMonth": "85.30%",
-    "uptimeYear": "98.77%",
+    "uptimeDay": "35.81%",
+    "uptimeWeek": "37.65%",
+    "uptimeMonth": "85.44%",
+    "uptimeYear": "98.79%",
     "time": 197,
     "timeDay": 8,
     "timeWeek": 29,
     "timeMonth": 35,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-09-28": 336,
+      "2025-09-28": 338,
       "2025-09-27": 1040,
       "2025-09-26": 657,
       "2025-09-25": 896,
       "2025-09-24": 839,
       "2025-09-23": 1052,
       "2025-09-22": 928,
-      "2025-09-21": 693
+      "2025-09-21": 631
     }
   },
   {
@@ -2125,7 +2125,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 507,
+      "2025-09-28": 524,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -2509,7 +2509,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 507,
+      "2025-09-28": 524,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
